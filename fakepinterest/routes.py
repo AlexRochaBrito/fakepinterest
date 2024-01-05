@@ -67,3 +67,7 @@ def feed():
     return render_template("feed.html", fotos=fotos)
 
 # continuar Aula 22 subindo projeto GitHub
+# caso queira editar preciso fazer os comandos novamente para o GitHub
+# git add .
+# git commit -m "discriminar qual foi a atualização"
+# git push origin main
